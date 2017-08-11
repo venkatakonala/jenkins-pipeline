@@ -1,5 +1,9 @@
-class Demo {
+public class Demo {
 	public static void main(String args[]) {
-		System.out.println("Welcome to AppD pipeline-v2 with Venkata");
+	  Demo demo = new Demo();
+          System.out.println(demo.add(100,200));
 	}
-}
+       public int add(int number1, int number2){
+         return a + b;
+       }
+
